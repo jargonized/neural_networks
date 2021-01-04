@@ -2,5 +2,5 @@
 Pythonic implementation of NNs
 
 Note:
-The content of the repository is majorly inspired from the course I took up on GuviGeek network with my mentors from PadhAI. 
+The content of the repository is majorly inspired from the course I took up on GuviGeek network mentored by professors from IITM.
 
